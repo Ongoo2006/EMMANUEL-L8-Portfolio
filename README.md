@@ -15,3 +15,15 @@ Location: Mwanza - Tanzania 35%
 Target Lab: testphp.vulnweb.com
 
 > "Connection timeout - ISP morning block - but MASTER never gives up!"
+
+---
+## PROJECT 1: EscrowLock-Gold-v2 - SECURE EDITION - $1000+
+
+🔒 Built a Production-Ready Secure Escrow App
+- Fixed IDOR vulnerability (Owner-only access check)
+- Implemented Anti-Theft Logic - No one can steal other deals
+- Premium Gold #FFD700 on Black #0A0A0A UI
+- Location: ~/EscrowLock-Gold-v2 (Complete with src/api/secure.ts)
+
+Status: READY FOR CLIENT - $1000+ Commercial License
+Built by: Emmanuel Lameck - White Hat Security Developer (Mwanza, TZ)
