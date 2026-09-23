@@ -1,29 +1,22 @@
-# 🛡️ WHITE HAT PORTFOLIO - EMMANUEL KIJA AMOS
-**ID: WH-ML-2026-09-005 | MASTER #1 Tanzania - Mwanza**
-**Status: L8 GRADUATE | Date: 22/09/2026**
+# EMMANUEL L8 - EscrowLock Gold v2 - SECURE
 
-### Skills Proven:
-- Custom Vulnerability Scanner (my_scanner.py) - Detected [VULNERABLE!]
-- SQLMap Wizard Mastery {1.10.9.20/dev}
-- Troubleshooting ISP Blocks & Timeouts
-- Secure Coding: vulnerable.php vs fixed.php
+**Live Bug Hunter | Mwanza TZ | Halotel 4G Lab**
 
-### Tools:
-Termux | SQLMap | PHP | Python | Halotel 4G Lab
+## Latest Find: OPEN REDIRECT FOUND & FIXED [23 Sep 2026]
+- Status: 302 Found
+- Location: //google.com
+- Proof: BUG-FOUND-001.txt
+- Fix: Whitelisted domains implemented
 
-Location: Mwanza - Tanzania 35%
-Target Lab: testphp.vulnweb.com
+## Portfolio: EscrowLock Gold v2
+- Price: $1000+
+- Security: IDOR Protected + Open Redirect Fixed + SQLi Safe
+- Stack: PHP 8.2, MySQL, Escrow Logic
+- Location: Mwanza, Tanzania
+- Contact: WhatsApp Status - Ready for Demo
 
-> "Connection timeout - ISP morning block - but MASTER never gives up!"
-
----
-## PROJECT 1: EscrowLock-Gold-v2 - SECURE EDITION - $1000+
-
-🔒 Built a Production-Ready Secure Escrow App
-- Fixed IDOR vulnerability (Owner-only access check)
-- Implemented Anti-Theft Logic - No one can steal other deals
-- Premium Gold #FFD700 on Black #0A0A0A UI
-- Location: ~/EscrowLock-Gold-v2 (Complete with src/api/secure.ts)
-
-Status: READY FOR CLIENT - $1000+ Commercial License
-Built by: Emmanuel Lameck - White Hat Security Developer (Mwanza, TZ)
+## Files
+- PITCH-1000.txt - Sales Pitch
+- GRADUATION.txt - Skills
+- BUG-FOUND-001.txt - Live Bug Proof
+- redirect.py - Bug Hunter Tool (Working!)

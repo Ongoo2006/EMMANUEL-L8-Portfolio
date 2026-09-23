@@ -1,0 +1,10 @@
+BUG BOUNTY REPORT #001
+Date: 23 Sep 2026
+Type: Open Redirect - 302 Found
+URL Tested: https://httpbin.org/redirect-to?url=//google.com
+Status: 302
+Location: //google.com
+Result: BUG FOUND!
+Impact: Attacker can redirect victim to phishing site
+Fix in EscrowLock Gold v2: Whitelist allowed domains, block // payloads
+Hunter: Emmanuel - Mwanza TZ - Halotel 4G Lab
